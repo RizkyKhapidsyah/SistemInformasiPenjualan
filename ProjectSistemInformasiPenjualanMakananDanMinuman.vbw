@@ -1,0 +1,11 @@
+FormUtama = 100, 100, 805, 567, , 75, 75, 780, 542, C
+FormDataMinuman = 25, 25, 730, 492, , 0, 0, 705, 467, C
+FormDataPenjualan = 25, 25, 730, 492, Z, 0, 0, 705, 467, C
+Engine = 25, 25, 730, 492, 
+FormDataCustomer = 200, 200, 905, 667, , 150, 150, 855, 617, C
+LaporanDataCustomer = 0, 0, 0, 0, C, 150, 150, 728, 617, C
+FormLaporanDataCustomer = 200, 200, 778, 667, , 175, 175, 753, 642, C
+LaporanPenjualan = 0, 0, 0, 0, C, 175, 175, 753, 642, C
+FormLaporanPenjualan = 0, 0, 578, 467, , 200, 200, 778, 667, C
+LaporanDataMinuman = 0, 0, 0, 0, C, 75, 75, 783, 542, C
+FormLaporanDataMinuman = 175, 175, 883, 642, , 150, 150, 858, 617, C

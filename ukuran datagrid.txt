@@ -1,0 +1,9 @@
+Kode_Minuman:1065,26
+Nama_Minuman:1319,811
+Jenis_Minuman:1124,787
+Ukuran:615,1182
+Tgl_Beli:629,8583
+Harga:675,2126
+Jumlah:615,1182
+Total:555,0236
+Jumlah_Bayar:1110,047
