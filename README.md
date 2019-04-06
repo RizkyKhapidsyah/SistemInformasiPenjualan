@@ -1,2 +1,2 @@
 # Sistem Informasi Penjualan
-Software Sistem Informasi Penjualan, sederhana untuk teman kuliah saya Bambang Aditya untuk syarat mencapai gelar D3. <br> Copyright (C) 2011 by Rizky Khapidsyah </br>
+Information System basic using MySQL. Software designed for my friend: Bambang Aditya. This project for his Associate's Degree (D3) of STMIK Budi Darma. <br> Copyright (C) 2011 by Rizky Khapidsyah </br>
